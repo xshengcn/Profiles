@@ -1,0 +1,11 @@
+# NAME: Bard
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-11-28 15:52:33
+# HOST: 2
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 20
+# TOTAL: 3
+HOST,bard.google.com,Bard
+HOST-SUFFIX,bard.google.com,Bard
+HOST-KEYWORD,bard,Bard
